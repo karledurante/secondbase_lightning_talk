@@ -1,0 +1,35 @@
+body {
+  color: #54301a;
+}
+
+h1, p, ul {
+  margin: 0px 25px;
+  padding: 0 0 25px;
+}
+ul {
+  list-style-type: disc;
+/*  color: #ee3524;*/
+  color: brown;
+}
+p {
+  font-size: 3em;
+}
+pre {
+  font-size: 2.5em;
+}
+h1 {
+  font-family:  "museo-slab-1", "museo-slab-2", Times, serif;
+  font-weight:  500;
+}
+h2 {
+  font-family:  "museo-slab-1", "museo-slab-2", Times, serif;
+  font-weight:  300;
+  color:        #f37321;
+}
+pre {
+/*  color: #brown;*/
+  color: #f37321;
+}
+#preso, .slide, pre.sh_sourceCode {
+  background-color: #f1e3c5;;
+}
