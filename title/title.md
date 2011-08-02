@@ -1,4 +1,4 @@
 !SLIDE
 # SecondBase
-
-## by Karle Durante
+## The What, When, Who, Why, and How
+### by Karle Durante

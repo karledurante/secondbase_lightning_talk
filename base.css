@@ -17,14 +17,19 @@ p {
 pre {
   font-size: 2.5em;
 }
-h1 {
+h1, h2, h3 {
   font-family:  "museo-slab-1", "museo-slab-2", Times, serif;
+  font-weight:  300;
+}
+h1 {
   font-weight:  500;
 }
 h2 {
-  font-family:  "museo-slab-1", "museo-slab-2", Times, serif;
-  font-weight:  300;
   color:        #f37321;
+}
+h3 {
+  font-size:    2.7em;
+  color:        brown;
 }
 pre {
 /*  color: #brown;*/

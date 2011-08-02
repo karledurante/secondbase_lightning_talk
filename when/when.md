@@ -10,5 +10,5 @@
 !SLIDE bullets incremental transition=fade
 
 * Migrating from a legacy database
-* Alternate approach to SOA, i.e. 'Operational Data Store" 
-* High performaning or specialized services (such as logging)
+* Alternate approach to SOA (i.e., "Operational Data Store")
+* High performing or specialized services (such as logging)

@@ -2,7 +2,7 @@
 
 # Where to find out more?
 
-## Github
+### Github
     /karledurante/secondbase
     /karledurante/secondbase_lightning_talk
 
@@ -10,5 +10,5 @@
 ## 
 ## 
 
-## Email
+### Email
     kdurante@customink.com
