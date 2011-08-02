@@ -11,4 +11,4 @@
 
 * Migrating from a legacy database
 * Alternate approach to SOA, i.e. 'Operational Data Store" 
-* High performant or specialized services (such as logging)
+* High performaning or specialized services (such as logging)

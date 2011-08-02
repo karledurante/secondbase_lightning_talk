@@ -7,12 +7,12 @@
 
 # Developers
 
-Keep us productive by steering us away from *one off* implementations 
+## Keep us productive by steering us away from *one off* implementations 
 
 
 !SLIDE transition=fade center
 
 # Operations
 
-Keep them sane by worrying less about setting up *one off* implementations
+## Keep them sane by worrying less about setting up *one off* implementations
 

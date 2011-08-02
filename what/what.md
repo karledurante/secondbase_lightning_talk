@@ -27,10 +27,6 @@
 # Or is it?
 
   * How do you make sure your 2nd database is set up?  
-  * How do you test code pointing to your 2nd database?
-  * How do you point your 2nd database to different environments?
   * How do you make updates to your 2nd database?
-
-
-
-
+  * How do you test code pointing to your 2nd database?
+  * How do you migrate your 2nd database to other environments?

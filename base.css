@@ -2,7 +2,7 @@ body {
   color: #54301a;
 }
 
-h1, p, ul {
+h1, p, ul, h2 {
   margin: 0px 25px;
   padding: 0 0 25px;
 }

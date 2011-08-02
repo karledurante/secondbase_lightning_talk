@@ -3,7 +3,7 @@
 # Why do we use SecondBase?
 
 
-!SLIDE center transition=uncover
+!SLIDE center transition=uncover center
 
 # Rolling your own code requires memory, maintenance, and education
 
@@ -17,11 +17,11 @@
   * rake test
   
   
-!SLIDE center transition=uncover
+!SLIDE center transition=uncover center
 
 # This means less ramp up time on your projects
 
 
-!SLIDE center transition=fade
+!SLIDE center transition=fade center
 
 # It also means a simpler migration path
